@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Sriracha&display=swap");
+
+body {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* CSS for header */
+/* CSS for main element */
+.intro {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 93vh;
+  background: url("../images/home/IMG-20230211-WA0037.jpg");
+  background-size: 100% 100%;
+  /* background-position: center; */
+  /* background-repeat: no-repeat; */
+}
